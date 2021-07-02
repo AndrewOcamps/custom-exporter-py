@@ -1,6 +1,6 @@
 # custom-exporter-py
 
-This project is used to complement the tutorial published on the following page: 
+This project is used to complement the tutorial published on the following page: https://blog-ocampoge.medium.com/prometheus-exporters-personalizados-con-python-61f87d8530ad
 
 ## Usage
 > This collector verify the status code of request
